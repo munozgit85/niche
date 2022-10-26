@@ -2,11 +2,6 @@
   box-sizing: border-box;
 }
 
-html {
-  background-image: url("/images/background.jpeg");
-  background-size: cover;
-}
-
 body,
 html {
   height: 100%;
@@ -14,6 +9,8 @@ html {
   margin: 0;
   font-family: sans-serif;
   color: #333;
+  background-image: url("/images/background.jpeg");
+  background-size: cover;
 }
 header {
   border-bottom: 1px solid #ccc;
