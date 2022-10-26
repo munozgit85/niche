@@ -162,6 +162,11 @@ main {
   background-color: lightgray;
 }
 
+.current {
+  font-size: x-large;
+  font-weight: bolder;
+  color: wheat;
+}
 /*
  * --Order placed form--
 
