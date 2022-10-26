@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS niche_db;
+
+CREATE DATABASE niche_db;

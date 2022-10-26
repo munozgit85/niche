@@ -1,0 +1,25 @@
+{{> order_items post}}
+
+<form class="comment-form">
+  <div>
+    <textarea name="comment-body"></textarea>
+  </div>
+
+  <div>
+    <button type="submit">add Order
+    </button>
+    <button type="button" class="delete-post-btn">Click to Complete Order</button>
+ 
+  </div>
+</form>
+ <ol>
+   
+    <li>
+      {{> order-name post.orders}}
+   
+    </li>
+
+  </ol>
+<script src="/javascript/order.js"></script>
+<script src="/javascript/delete-post.js"></script>
+

@@ -1,0 +1,39 @@
+{
+  "name": "niche",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/munozgit85/niche.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/munozgit85/niche/issues"
+  },
+  "homepage": "https://github.com/munozgit85/niche#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "connect-session-sequelize": "^7.1.5",
+    "controllers": "^0.0.2",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.6",
+    "express-session": "^1.17.3",
+    "helpers": "^0.0.6",
+    "mysql2": "^2.3.3",
+    "purecss": "^2.2.0",
+    "routing-controllers": "^0.6.9",
+    "sequelize": "^6.25.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.25.0",
+    "eslint-config-google": "^0.14.0",
+    "prettier": "2.7.1"
+  }
+}

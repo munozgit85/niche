@@ -1,0 +1,13 @@
+
+
+<br>
+<br>
+Current Orders
+
+<ol class="post-list">
+  {{#each posts as |post|}}
+  <li>
+       {{> order_items post }}
+  </li>
+  {{/each}}
+</ol>
