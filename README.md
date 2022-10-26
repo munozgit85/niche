@@ -60,10 +60,8 @@ top of the page when completed.
   ## Screenshot
   
   
-  
-  ![nichescreenshot](https://user-images.githubusercontent.com/107218022/198135240-dbc199bc-9759-4374-b86b-778064e89603.jpeg)
+  <img width="1440" alt="newnicheshot" src="https://user-images.githubusercontent.com/107218022/198148704-bb6e35d9-531e-4db0-a06f-51431fa19cce.png">
 
-  
 
   ## License
 
