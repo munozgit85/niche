@@ -2,7 +2,10 @@
   box-sizing: border-box;
 }
 
-style body {
+body {
+  background-image: url("/images/6242678.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   background-size: cover;
 }
 
@@ -236,11 +239,4 @@ img:hover {
 
 .signup {
   text-align: center;
-}
-@media screen and (max-width: 1024px) {
-  /* Specific to this particular image */
-  style body {
-    left: 50%;
-    margin-left: -512px; /* 50% */
-  }
 }
