@@ -58,6 +58,12 @@ top of the page when completed.
 - Finally, connect to the server and run npm start.
 
   ## Screenshot
+  
+  
+  
+  ![nichescreenshot](https://user-images.githubusercontent.com/107218022/198135240-dbc199bc-9759-4374-b86b-778064e89603.jpeg)
+
+  
 
   ## License
 
